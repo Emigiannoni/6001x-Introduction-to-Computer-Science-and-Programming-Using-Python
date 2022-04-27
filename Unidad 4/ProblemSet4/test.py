@@ -1,0 +1,3 @@
+hand = {}
+
+print(len(hand))
